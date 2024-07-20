@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179888070899",
+    "project_id": "tunlive-3a238",
+    "storage_bucket": "tunlive-3a238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179888070899:android:afa8a64399ec7781e75786",
+        "android_client_info": {
+          "package_name": "com.tun.live"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHCkyR4XH2iSniithMr6RVMqPMh8DltM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
